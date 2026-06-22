@@ -4,12 +4,13 @@ Maleeka Raddygala
 
 CS @ Stanford. Director, Stanford ACM MLABS (2026–27).
 
-Interested in theoretical machine learning, computer vision, and modern ML research broadly. Right now I'm pushing for state-of-the-art 3D image segmentation at the Stanford Poston Lab.
+Interested in theoretical machine learning, computer vision, and modern ML research broadly. Pushing for SOTA 3D image segmentation at the Stanford Poston Lab.
 
 Reach out
 
 Want to talk ML or research? Find me here:
 
 
-[LinkedIn])(https://www.linkedin.com/in/maleeka-raddygala/)
+[LinkedIn](https://www.linkedin.com/in/maleeka-raddygala/)
+
 maleeka@stanford.edu
