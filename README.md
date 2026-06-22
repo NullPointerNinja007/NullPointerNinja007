@@ -1,16 +1,15 @@
-## Hi there 👋
+Hello
 
-<!--
-**NullPointerNinja007/NullPointerNinja007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Maleeka Raddygala
 
-Here are some ideas to get you started:
+CS @ Stanford. Incoming Director, Stanford ACM MLABS (2026–27).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in theoretical machine learning, computer vision, and modern ML research broadly. Right now I'm pushing for state-of-the-art 3D image segmentation at the Stanford Poston Lab.
+
+Reach out
+
+Want to talk ML or research? Find me here:
+
+
+[LinkedIn])(https://www.linkedin.com/in/maleeka-raddygala/)
+maleeka@stanford.edu
