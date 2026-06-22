@@ -1,8 +1,8 @@
-Hello
+Hello!
 
 Maleeka Raddygala
 
-CS @ Stanford. Incoming Director, Stanford ACM MLABS (2026–27).
+CS @ Stanford. Director, Stanford ACM MLABS (2026–27).
 
 Interested in theoretical machine learning, computer vision, and modern ML research broadly. Right now I'm pushing for state-of-the-art 3D image segmentation at the Stanford Poston Lab.
 
